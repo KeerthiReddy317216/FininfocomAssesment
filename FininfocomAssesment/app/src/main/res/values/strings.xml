@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sub_title">Please click the below buttons to get the required list</string>
+    <string name="prime_numbers">Prime Numbers</string>
+    <string name="odd_numbers">Odd Numbers</string>
+    <string name="even_numbers">Even Numbers</string>
+    <string name="fibonacci_sequence_numbers">Fibonacci Sequence</string>
+    <string name="clear_filter">Clear the Selected Items</string>
+    <string name="prime_target_path">Prime</string>
+    <string name="odd_target_path">Odd</string>
+    <string name="even_target_path">Even</string>
+    <string name="fibonacci_target_path">Fibonacci</string>
+
+</resources>
