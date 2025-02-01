@@ -2,7 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="action_prime_bg_color">#34587D</color>
+    <color name="action_prime_bg_color">#E4D54E</color>
     <color name="action_odd_bg_color">#AF5B78</color>
     <color name="action_even_bg_color">#9D7539</color>
     <color name="action_fibonacci_bg_color">#3DCC45</color>
